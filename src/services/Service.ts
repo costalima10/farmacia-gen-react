@@ -3,7 +3,7 @@
 import axios, { AxiosError } from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://farmagen.onrender.com/swagger-ui/index.html'
+  baseURL: 'https://farmagen.onrender.com/'
 });
 
 // Função para tratar erros de requisição

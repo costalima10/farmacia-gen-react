@@ -1,6 +1,7 @@
 import homeLogo from '../../assets/home.gif';
 import './Home.css';
 
+
 function Home() {
   return (
     <div className="bg-purple-950 h-screen flex flex-col items-center justify-center relative"style={{ fontFamily: 'Caveat , sans-serif' }}>
